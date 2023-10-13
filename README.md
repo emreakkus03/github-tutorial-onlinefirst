@@ -4,10 +4,10 @@ GitHub Tutorial - Aanmaak van een online repository
 
 |           |                                |
 | --------- | ------------------------------ |
-| Firstname | Philippe                       |
-| Lastname  | De Pauw - Waterschoot          |
+| Firstname | Emre                           |
+| Lastname  | Akkus                          |
 | Gender    | :male_sign:                    |
-| Email     | philippe.depauw@arteveldehs.be |
+| Email     | //                             |
 
 **GRADUAAT PROGRAMMEREN ARTEVELDEHOGESCHOOL**
 We :heart: **Programming** :thumbsup: **Graphics** make **Cool** :poop:
